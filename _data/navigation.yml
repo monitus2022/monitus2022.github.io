@@ -1,23 +1,21 @@
 # main links
+# https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 main:
+  - title: "Home"
+    url: /
+  - title: "ML Study Notes"
+    url: /notes/
+    description: "My notes on ML books, papers, and courses."
+  - title: "ML Projects"
+    url: /projects/
+    description: "My projects on ML, data science, and software engineering."
+  - title: "About Me"
+    url: /about/
+    description: "Who am I?"
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about/
-  - title: "1"
-    url: /1/
-  - title: "2"
-    url: /2/
-  - title: "3"
-    url: /3/
-docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+
+# Sidebar navigation for "notes"
+notes:
+  - title: "Machine Learning Interview Book"
+    url: /notes/ml-interview-book/

@@ -327,3 +327,12 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "/notes"
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "notes"
+      classes: wide
