@@ -34,3 +34,7 @@ https://www.inc.com/minda-zetlin/google-resume-mistakes-laszlo-bock-job-hiring-e
 
 
 ## Video collections
+
+
+## TODO
+- https://arxiv.org/pdf/2207.08815
